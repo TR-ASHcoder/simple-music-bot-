@@ -131,5 +131,5 @@ async def stop(ctx):
 client.run(TOKEN)
 
 # main coder : @Teh llama#4638
-# second coder : @TR ASH#7081
+# second coder/owner : @TR ASH#7081
 # lol
