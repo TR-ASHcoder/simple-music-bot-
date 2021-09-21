@@ -3,6 +3,6 @@ its a music bot
 
 
 
-uses the template for MpFree music discord bot 
+uses the template for a simple music discord bot 
 
 ( uses python ) 
