@@ -21,7 +21,7 @@ import random
 import youtube_dl
 from youtube_dl import *
 
-TOKEN = ' '
+TOKEN = '<REDACTED>'
 
 client = commands.Bot(command_prefix=' ')
 
