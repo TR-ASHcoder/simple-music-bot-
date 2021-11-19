@@ -128,6 +128,30 @@ async def stop(ctx):
                                    color=discord.Color.from_rgb(219, 54, 54))
         await ctx.reply(embed=play_embed, mention_author=False)
 
+
+        
+@client.command()
+async def leave(ctx):
+    user = ctx.message.author
+    voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
+    if voice.is_connected():
+        await voice.disconnect()
+        play_embed = discord.Embed(
+          title = f'{user.name}, leaving', 
+          description ='i have left the VC',
+          color=discord.Color.from_rgb(167, 241, 242)
+        )
+        await ctx.reply(embed= play_embed) 
+     
+        
+        
+        
+ 
+
+
+
+
+
 client.run(TOKEN)
 
 # main coder : @Teh llama#4638
