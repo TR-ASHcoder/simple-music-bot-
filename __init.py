@@ -28,9 +28,9 @@ client = commands.Bot(command_prefix=' ')
 
 @client.event
 async def on_ready():
-    print('')
+    print('<put something here>')
     await client.change_presence(activity=discord.Game(
-    name= " "))
+    name= "<put something here>"))
 
 
 @client.command()
@@ -110,23 +110,18 @@ async def resume(ctx):
         await ctx.reply(embed=play_embed, mention_author=False)
 
 
+
 @client.command()
 async def stop(ctx):
-    voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     user = ctx.message.author
-    try:
-        if voice.is_paused():
-            play_embed = discord.Embed(title=f"{user.name}, stopping",
-                                       description=f'Stopping music',
-                                       color=discord.Color.from_rgb(
-                                           167, 241, 242))
-            await ctx.reply(embed=play_embed, mention_author=False)
-            voice.stop()
-    except:
-        play_embed = discord.Embed(title=f"{user.name}, there was an error",
-                                   description=f'Audio is not playing',
-                                   color=discord.Color.from_rgb(219, 54, 54))
-        await ctx.reply(embed=play_embed, mention_author=False)
+    voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
+    voice.stop()
+    play_embed = discord.Embed(
+          title = f'{user.name}, stoping', 
+          description ='the audio has stoped playing',
+          color=discord.Color.from_rgb(167, 241, 242)
+        )
+    await ctx.reply(embed= play_embed) 
 
 
         
