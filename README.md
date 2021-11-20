@@ -1,6 +1,5 @@
 # disocord-bot-MuSiC
-its a music bot 
-uses the template for a simple music discord bot 
+its a simple music bot for discord 
 
 ( uses python ) 
 
