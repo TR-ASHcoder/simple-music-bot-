@@ -23,7 +23,7 @@ from youtube_dl import *
 
 TOKEN = '<REDACTED>'
 
-client = commands.Bot(command_prefix=' ')
+client = commands.Bot(command_prefix='<put prefix of choice here>')
 
 
 @client.event
