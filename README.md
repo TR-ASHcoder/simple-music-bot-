@@ -1,4 +1,4 @@
-# disocord-bot-MuSiC
+# discord-bot-MuSiC
 its a simple music bot for discord 
 
 ( uses python ) 
