@@ -1,4 +1,4 @@
-# a simple music bot ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015928-76090271-bdad-425e-a490-fa6bd6c91cce.gif)
+# ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015974-fa977449-e362-4f99-88b8-a5d33f271d7e.gif) a simple music bot ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015928-76090271-bdad-425e-a490-fa6bd6c91cce.gif)
  
 its a simple music bot for discord ( uses python ) 
 
