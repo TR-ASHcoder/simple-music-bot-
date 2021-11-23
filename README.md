@@ -4,7 +4,7 @@ its a simple music bot for discord ( uses python )
 - note:
 if you're using replit always install PyNaCl!!!!!!! 
 
-( ᐁ find out how to install down below ᐁ )
++( ᐁ find out how to install down below ᐁ )
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
