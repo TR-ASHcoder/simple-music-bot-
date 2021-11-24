@@ -1,5 +1,5 @@
-# ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015974-fa977449-e362-4f99-88b8-a5d33f271d7e.gif) a simple music bot ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015928-76090271-bdad-425e-a490-fa6bd6c91cce.gif)
- 
+# ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90879002/143015974-fa977449-e362-4f99-88b8-a5d33f271d7e.gif) a simple music bot ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90879002/143176988-5523cf25-9dfe-47ba-ba6d-be696346ce8d.gif)
+
 its a simple music bot for discord ( uses python ) 
 
 - note:
@@ -52,7 +52,8 @@ wait
 step 5:
 VIBE
 
-![iuxha](https://user-images.githubusercontent.com/90879002/143014653-026ac34e-23c1-4770-a543-ad66bf34ad76.gif)
+![image](https://user-images.githubusercontent.com/90879002/143176800-70827659-0a92-4aa4-9f97-9ab3cfa576f4.png)
+
 
 
 
