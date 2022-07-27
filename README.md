@@ -3,7 +3,7 @@
 
 its a simple music bot for discord ( uses python ) 
 
-- notes:
+**notes:**
 
   if you're using replit then it wont work.
 
