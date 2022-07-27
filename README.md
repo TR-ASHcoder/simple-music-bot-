@@ -4,7 +4,9 @@
 its a simple music bot for discord ( uses python ) 
 
 - notes:
+
 if you're using replit then it wont work
+
 you'll need to install [FFMPEG](https://ffmpeg.org/), [Discord.py](https://pypi.org/project/discord.py/) and [PyNaCl](https://pypi.org/project/PyNaCl/)
 
 
