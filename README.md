@@ -7,9 +7,10 @@ its a simple music bot for discord ( uses python )
 
   if you're using replit then it wont work.
 
-  ( for code editor ) you'll need to install [FFMPEG](https://ffmpeg.org/, https://pypi.org/project/ffmpeg/), [Discord.py](https://pypi.org/project/discord.py/) and [PyNaCl](https://pypi.org/project/PyNaCl/)
+  ( for code editor ) you'll need to install [FFMPEG](https://ffmpeg.org/) you'll also need to do `pip install ffmpeg` either in your code edior terminal or cmd, [Discord.py](https://pypi.org/project/discord.py/) and [PyNaCl](https://pypi.org/project/PyNaCl/)
   
-  to know where to put the file watch this [video](https://youtube.com/clip/UgkxHdOvY_jg9NaRKHGw58nxRjAjrzOVExzA) 
+  
+  to know how to set up ffmpeg watch this [video](https://youtube.com/clip/UgkxHdOvY_jg9NaRKHGw58nxRjAjrzOVExzA) 
 
 
 
