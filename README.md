@@ -5,16 +5,16 @@ its a simple music bot for discord
 
 # imports used :
 
-[FFMPEG](https://ffmpeg.org/)
+`[FFMPEG](https://ffmpeg.org/)`
 
 
-[Discord.py](https://pypi.org/project/discord.py/)
+`[Discord.py](https://pypi.org/project/discord.py/)`
 
 
-[PyNaCl](https://pypi.org/project/PyNaCl/)
+`[PyNaCl](https://pypi.org/project/PyNaCl/)`
 
 
-[youtube_dl](https://pypi.org/project/youtube_dl/)
+`[youtube_dl](https://pypi.org/project/youtube_dl/)`
 
 
 # notes:
