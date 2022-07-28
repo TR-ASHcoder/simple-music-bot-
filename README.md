@@ -3,14 +3,23 @@
 
 its a simple music bot for discord ( uses python ) 
 
-**notes:**
+# imports used :
+
+[FFMPEG](https://ffmpeg.org/)
+
+
+[Discord.py](https://pypi.org/project/discord.py/)
+
+
+[PyNaCl](https://pypi.org/project/PyNaCl/)
+
+
+[youtube_dl](https://pypi.org/project/youtube_dl/)
+
+
+#notes:
 
    if you're using replit then it wont work.
-
-   ( for code editor ) you'll need to install 
-   [FFMPEG](https://ffmpeg.org/) [ you'll also need to do `pip install ffmpeg` either in your code editor terminal or cmd ], 
-  
-   [Discord.py](https://pypi.org/project/discord.py/) and [PyNaCl](https://pypi.org/project/PyNaCl/)
 
 
    to know how to set up ffmpeg watch this [video](https://youtube.com/clip/UgkxHdOvY_jg9NaRKHGw58nxRjAjrzOVExzA) 
