@@ -17,7 +17,7 @@ its a simple music bot for discord ( uses python )
 [youtube_dl](https://pypi.org/project/youtube_dl/)
 
 
-#notes:
+# notes:
 
    if you're using replit then it wont work.
 
