@@ -5,7 +5,7 @@ its a simple music bot for discord
 
 # imports used :
 
-[`FFMPEG`](https://ffmpeg.org/)
+[`ffmpeg`](https://ffmpeg.org/)
 
 
 [`Discord.py`](https://pypi.org/project/discord.py/)
